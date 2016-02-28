@@ -1,0 +1,9 @@
+name: shinyproject2
+account: developingdataprods
+server: shinyapps.io
+appId: 85971
+bundleId: 382672
+url: https://developingdataprods.shinyapps.io/shinyproject2/
+when: 1456676792.5975
+asMultiple: FALSE
+asStatic: FALSE
